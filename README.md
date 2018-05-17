@@ -1,6 +1,6 @@
 # web
 #Web tasarım ödevi
-   Derste öğrendiğimiz şekilde ve W3School dan yararlanarak iç mimarlık sitesi tasarladım.
+   Derste öğrendiğimiz şekilde ve W3School'dan yararlanarak iç mimarlık sitesi tasarladım.
    Vurguyu arama butonunda kullandım.
    İlgi odağı kısmına fotoğraflar ekledim.
    Altın oranı kullanarak tasarımı gerçekleştirdim. 
