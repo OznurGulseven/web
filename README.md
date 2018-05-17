@@ -11,19 +11,5 @@
    Content kısmında : Tasarımları kullandım. Odak noktası, sıcak ve ılık olan kısımdır.
    Footer kısmında: Facebook,twitter vb. iconlar
    HTML, CSS, BOOTSTRAP ve Java yı kullanarak tasarımı gerçekleştirdim.
-   HTML li  yazarak style için css i kullandım.
-   <div>
-   <meta>
-   Kullanıcılara ve arama motorlarına sayfanın genel yapısı hakkında bilgi vermek için kullandım.
-   <li> 
-   Liste elemanları için kullandım.
-   <pre>
-   <ul>
-   <img> 
-   Sayfaya fotoğraflar eklemek için kullanılmıştır.
-   <button>
-   <head>
-   <title>
-   <body>
-   <href>
-   <b> taglarını kullandım. 
+   HTML de yazmaya başlayarak style için css i kullandım. <div>, <meta>, <li>, <pre>, <ul>, <img> ,<button>, <head>, <title>, <body>,
+   <href>, <b> taglarını kullandım. 
