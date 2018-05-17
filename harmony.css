@@ -1,0 +1,120 @@
+div{position:absolute;
+		top:60px;
+		right:0px;
+		left;0px;}
+		
+		img.logo{
+		position:absolute;
+		top:60px;
+		left:20px;
+		height:100px;}
+		ul.ul1{
+		position:absolute;
+		left:450px;}
+		
+		
+		
+		
+		img.mySlides{
+		position:absolute;
+			top:100px;
+			width:800px;
+			height:450px;
+			right:300px;
+			;
+		}
+		button.slide{
+		position:absolute;
+		top:300px;
+		right:1150px;}
+		button.slide2{
+		position:absolute;
+		top:300px;
+		right:310px;}
+		
+		img.a{
+		position:absolute;
+		right:100px;}
+		img.b{
+		position:absolute;
+		left:110px;}
+		p.tarih{
+		font-size:20px;
+		
+		}
+		pre.par{
+			position:absolute;
+			left:1220px;
+			top:160px;
+			height:1000px;
+			font-family: minion pro bold;}
+		ul.ul1{
+			position:absolute;
+			text-decoration: none;
+			font-size:15px;
+			list-style-type:none;
+			font-family:minion pro bold;
+			}
+		ul.ul2{
+				list-style-type: none;
+				margin: 0px;
+				padding: 5px;
+				overflow: hidden;
+				background-color:none;
+				margin-left:0px;
+				margin-right:0px;
+				position: absolute;
+				top:0px;
+				left:130px;
+				right:0px;
+				text-decoration: none;
+				font-size:20px;
+				font-family: minion pro bold;
+				
+				
+			}
+
+			li {
+				float: left;
+				}
+
+			li a {
+					display: block;
+					color: black;
+					text-align: center;
+					padding: 16px;
+					text-decoration: none;
+					}
+		    img.face{position:absolute;
+			top:670px;
+			right:300px;}
+			img.twitter{position:absolute;
+			top:670px;
+			right:340px;}
+			img.insta{position:absolute;
+			top:670px;
+			right:380px;}
+			img.foto1 {position:absolute;
+		    top:160px;
+		    left:20px;
+		    height:150px;
+			width:300px;
+			}
+			img.foto2 {position:absolute;
+		    top:330px;
+		    left:20px;
+		    height:150px;
+			width:300px;
+			}
+			img.foto3 {position:absolute;
+		    top:510px;
+		    left:20px;
+		    height:150px;
+			width:300px;
+			}
+			h.h2{
+			position:absolute;
+			left:1220px;
+			top:350px;
+			height:150px;
+			font-family:verdana;}
